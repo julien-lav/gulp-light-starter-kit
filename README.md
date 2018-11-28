@@ -1,6 +1,6 @@
 
-npm init
+`npm init`
 
-npm install gulp browser-sync gulp-sass --save-dev
+`npm install gulp browser-sync gulp-sass --save-dev`
 
-gulp
+`gulp`
